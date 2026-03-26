@@ -1,5 +1,5 @@
 # DIGITAL-LITERACY
-Digital Literacy Student Ambassador Portfolio 
+Digital Literacy Student Ambassador Portfolio .
 Welcome to my professional portfolio for the Digital Literacy project. This repository documents my journey in establishing a professional digital footprint, mastering online communication, and promoting cybersecurity awareness as a Student Digital Ambassador.
 
  Project Modules & Task Reports

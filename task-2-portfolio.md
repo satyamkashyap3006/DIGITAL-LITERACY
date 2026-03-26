@@ -7,3 +7,5 @@ With my specialization in AI/ML, Kaggle is my primary playground for experimenta
 Participating in introductory competitions.
 Completing micro-courses to sharpen my data visualization skills.
 Building a portfolio of public notebooks.
+<img width="1470" height="956" alt="Screenshot 2026-03-22 at 11 38 52 AM" src="https://github.com/user-attachments/assets/4ae3cea8-edd7-489d-b142-7cae75de2379" />
+
